@@ -1,14 +1,16 @@
 {
 	"name": "com.slantar.yourpackagename",
+	"displayName": "YourDisplayName",
+	"type": "library",
 	"version": "0.1.0",
 	"unity": "2018.1",
-	"dependencies": {},
 	"license": "MIT",
-	"description": "",
+	"description": "A brief description",
 	"keywords": [],
 	"category": "",
 	"author": {
 		"name": "slantar",
 		"url": "https://twitter.com/slantar"
-	}
+	},
+	"samples": []
 }
