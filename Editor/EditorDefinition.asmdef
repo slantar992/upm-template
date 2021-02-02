@@ -1,5 +1,5 @@
 {
-    "name": "EditorDefinition",
+    "name": "Slantar.EditorDefinition",
     "rootNamespace": "",
     "references": [
         "GUID:9556eec399159d541bf2bc7973588fa6"
