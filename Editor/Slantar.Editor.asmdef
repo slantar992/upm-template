@@ -2,7 +2,7 @@
     "name": "Slantar.Editor",
     "rootNamespace": "",
     "references": [
-        "Slantar.RuntimeDefinition"
+        "Slantar.Runtime"
     ],
     "includePlatforms": [
         "Editor"

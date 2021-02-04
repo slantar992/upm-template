@@ -1,8 +1,8 @@
 {
   "name": "Slantar.Editor.Tests",
   "references": [
-    "Slantar.EditorDefinition",
-    "Slantar.RuntimeDefinition"
+    "Slantar.Editor",
+    "Slantar.Runtime"
   ],
   "optionalUnityReferences": [
     "TestAssemblies"
