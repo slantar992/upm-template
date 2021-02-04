@@ -1,0 +1,11 @@
+{
+  "name": "Slantar.Runtime.Tests",
+  "references": [
+    "Slantar.RuntimeDefinition"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

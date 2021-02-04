@@ -1,8 +1,8 @@
 {
-    "name": "Slantar.EditorDefinition",
+    "name": "Slantar.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:9556eec399159d541bf2bc7973588fa6"
+        "Slantar.RuntimeDefinition"
     ],
     "includePlatforms": [
         "Editor"
